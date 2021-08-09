@@ -33,3 +33,7 @@ Example of hiding logging from a specific keyword
 ### [06. Workitem operation](./06.Workitem_Operations)
 
 Example of reading and creating work item variables and files
+
+### [07. Try catch for keyword](./07.Try_Catch_For_Keyword)
+
+Example of executing keyword and examining the result without error
