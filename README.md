@@ -2,7 +2,7 @@
 
 My repository contains snippets of Robot Framework (RFW) code, Python code or Robocorp task structure needed to complete a specific task.
 
-## Running the examples
+## How to run
 
 Examples can be run with [rcc](https://github.com/robocorp/rcc) by pointing to `robot.yaml` file in the example directory
 
@@ -15,6 +15,8 @@ And if you need to include environment variables from the `devdata` folder then
 ```console
 rcc run -e devdata/env.json -r directory/robot.yaml
 ```
+
+## List of Snippets
 
 ### [01. Simple HTTP Post request](./01.Simple_HTTP_Post_Request/example.robot)
 
